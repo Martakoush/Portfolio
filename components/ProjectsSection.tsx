@@ -8,7 +8,7 @@ const projectsData = [
     {
         id: 1,
         title: "E-Shop",
-        description: "A shopping cart app with product filtering, cart logic, and state management using Redux Toolkit. Emphasis on TypeScript type safety and component architecture..",
+        description: "A shopping cart app with product filtering, cart logic, and state management using Redux Toolkit. Emphasis on TypeScript type safety and component architecture.",
         image: "/images/eshop.jpg",
         tag: ["All", "Web"],
         gitUrl: "https://github.com/Martakoush/EShop.git",
