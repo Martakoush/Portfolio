@@ -8,7 +8,7 @@ const projectsData = [
     {
         id: 1,
         title: "E-Shop",
-        description: "A shopping cart application with product filtering, cart logic, and state management usingRedux Toolkit. Strong emphasis on TypeScript type safety and component architecture.",
+        description: "A shopping cart app with product filtering, cart logic, and state management using Redux Toolkit. Emphasis on TypeScript type safety and component architecture..",
         image: "/images/eshop.jpg",
         tag: ["All", "Web"],
         gitUrl: "https://github.com/Martakoush/EShop.git",
@@ -35,7 +35,7 @@ const projectsData = [
     {
         id: 4,
         title: "YC Blogs",
-        description: "A modern blog platform powered by Sanity CMS, featuring dynamic routing, category filtering, and a clean UI. Built for seamless content management and smooth publishing.",
+        description: "A blog platform powered by Sanity CMS with dynamic routing, category filtering, and a clean UI. Built for seamless content management and publishing.",
         image: "/images/projects/ycblog.jpg",
         tag: ["All", "Mobile"],
         gitUrl: "https://github.com/Martakoush/YC-Blog.git",
