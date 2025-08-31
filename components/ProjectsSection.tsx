@@ -36,7 +36,7 @@ const projectsData = [
         id: 4,
         title: "YC Blogs",
         description: "A blog platform powered by Sanity CMS with dynamic routing, category filtering, and a clean UI. Built for seamless content management and publishing.",
-        image: "/images/projects/ycblog.jpg",
+        image: "/images/ycblog.jpg",
         tag: ["All", "Mobile"],
         gitUrl: "https://github.com/Martakoush/YC-Blog.git",
         previewUrl: "https://yc-blog-6l1k.vercel.app",
